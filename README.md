@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Oi, eu sou o Denys<br><br>Atualmente estou buscando ingressar na área de dados<br><br>Fascinado em contribuir, adquirir e compartilhar conhecimentos.<br><br>Acredito que os dados devem orientar as decisões de uma empresa.<br><br>Em minha última experiência, tive a oportunidade de elaborar planilhas e dashboards para apoiar a minha gestão na tomada de decisão. O que despertou meu interesse pela área de dados.<br>Desde então, venho estudando e elaborando alguns projetos.<br>
 
 
